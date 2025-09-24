@@ -27,7 +27,7 @@ Lately, I’ve been exploring **UI/UX design systems** and **web performance opt
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-CB9FD2?style=for-the-badge&logo=figma&logoColor=black)  
-![Figma](https://img.shields.io/badge/Figma-E4FF97?style=for-the-badge&logo=figma&logoColor=black)  
+![FigJam](https://img.shields.io/badge/Figma-E4FF97?style=for-the-badge&logo=figma&logoColor=black)  
 
 
 ---
@@ -38,8 +38,8 @@ Lately, I’ve been exploring **UI/UX design systems** and **web performance opt
 ---
 
 ## 📊 GitHub Stats  
-![Radin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Radin's GitHub stats](https://github-readme-stats.vercel.app/api?username=reactmasterir&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reactmasterir&layout=compact&theme=radical)  
 
 ---
 
