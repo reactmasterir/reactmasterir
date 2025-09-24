@@ -22,7 +22,7 @@ Lately, I’ve been exploring **UI/UX design systems** and **web performance opt
 ![Zustand](https://img.shields.io/badge/Zustand-FF9900?style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-Figma - FigJam
+![Figma](https://img.shields.io/badge/Figma-CB9FD2?style=for-the-badge&logo=figma&logoColor=black)  
 
 ---
 
