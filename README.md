@@ -10,6 +10,8 @@ Lately, I’ve been exploring **UI/UX design systems** and **web performance opt
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![ShadcnUI](https://img.shields.io/badge/ShadcnUI-000?style=for-the-badge)  
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
@@ -20,6 +22,8 @@ Lately, I’ve been exploring **UI/UX design systems** and **web performance opt
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)  
 ![Zustand](https://img.shields.io/badge/Zustand-FF9900?style=for-the-badge)  
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-CB9FD2?style=for-the-badge&logo=figma&logoColor=black)  
